@@ -45,5 +45,5 @@ These skills will provide a strong foundation for developing modern Android appl
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/weather-android-app.git
+   git clone https://github.com/anirudhagaikwad/Weather.git
 

@@ -41,6 +41,11 @@ These skills will provide a strong foundation for developing modern Android appl
 - **Android Studio** (latest version)
 - **Weather API Key** (from OpenWeatherMap or Weatherstack)
 
+## 🚀 Static Assets
+- **[Icons](https://www.amcharts.com/free-animated-svg-weather-icons/)** 
+
+- **[Icons](https://www.svgrepo.com/svg/427015/weather-icons-44/)**
+
 ### Installation
 
 1. **Clone this repository**:
